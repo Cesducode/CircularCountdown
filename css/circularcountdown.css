@@ -1,0 +1,12 @@
+/* ========================================================================
+ * CircularCountdown v1.0.0
+ * ========================================================================
+ * Copyright 2014-2015 Playntek
+ * Author Sébastien Doutre - http://sebastien-doutre.playntek.fr/
+ * Licensed under MIT (https://github.com/Playntek/CircularCountdown/LICENSE)
+ * ======================================================================== */
+
+ .countdown canvas{
+	display: block;
+	margin: auto;
+}
