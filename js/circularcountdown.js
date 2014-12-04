@@ -119,7 +119,6 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
 
   CircularCountdown.prototype.cycle = function(){
     this.diff_time = $.now() - (new Date(this.options.to).getTime())
-    console.log(this)
 
     for (var j = 0; j <= 3; j++) {
       this.resize(this.cvs[j]);
