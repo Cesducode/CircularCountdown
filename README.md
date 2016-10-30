@@ -15,7 +15,7 @@ Ensuite il faut les inclures dans votre page d'index.
 Puis ajouter la structure du compte à rebours circulaire en n'oubliant pas de renseigner dans le bloc principal `data-toggle="circularcountdown"`
 
 ```html
-<div class="countdown" data-toggle="circularcountdown" data-color="belize-hole" data-to="12/25/2014">
+<div class="countdown" data-toggle="circularcountdown" data-color="belize-hole" data-to="12/25/2016">
     <div class="row">
         <div class="cdsjs col-lg-3 col-md-6 col-sm-12 col-xs-6"><canvas id="days"><!-- Days --></canvas></div>
         <div class="cdsjs col-lg-3 col-md-6 col-sm-12 col-xs-6"><canvas id="hours"><!-- Hours --></canvas></div>
